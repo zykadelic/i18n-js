@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "i18n-js/version"
 
 Gem::Specification.new do |s|
-  s.name        = "i18n-js"
+  s.name        = "i18n-js-proactive"
   s.version     = SimplesIdeias::I18n::Version::STRING
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Nando Vieira"]
