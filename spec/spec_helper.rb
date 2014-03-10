@@ -16,4 +16,4 @@ Rails = OpenStruct.new({
   :version => "0"
 })
 
-require "i18n-js"
+require "i18n-js-proactive"
