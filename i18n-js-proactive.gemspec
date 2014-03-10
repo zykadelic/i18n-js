@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Nando Vieira"]
   s.email       = ["fnando.vieira@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/i18n-js"
+  s.homepage    = "https://github.com/zykadelic/i18n-js/tree/proactive"
   s.summary     = "It's a small library to provide the Rails I18n translations on the Javascript."
   s.description = s.summary
 
